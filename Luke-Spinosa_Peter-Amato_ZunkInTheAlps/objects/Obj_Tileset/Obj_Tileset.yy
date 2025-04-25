@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Reginald",
+  "%Name":"Obj_Tileset",
   "eventList":[],
   "managed":true,
-  "name":"Reginald",
+  "name":"Obj_Tileset",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",

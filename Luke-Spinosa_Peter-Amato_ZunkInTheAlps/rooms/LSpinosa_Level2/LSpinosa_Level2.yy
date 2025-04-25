@@ -1,5 +1,5 @@
 {
-  "$GMRoom":"",
+  "$GMRoom":"v1",
   "%Name":"LSpinosa_Level2",
   "creationCodeFile":"",
   "inheritCode":false,
