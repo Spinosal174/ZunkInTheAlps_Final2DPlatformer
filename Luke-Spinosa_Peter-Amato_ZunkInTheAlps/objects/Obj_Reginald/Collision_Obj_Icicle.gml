@@ -9,8 +9,9 @@ with(other) instance_destroy();
 /// @DnDHash : 28306F46
 /// @DnDArgument : "x_relative" "1"
 /// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "type" "2"
 /// @DnDArgument : "color" "$FFFFB73D"
-effect_create_below(0, x + 0, y + 0, 0, $FFFFB73D & $ffffff);
+effect_create_below(2, x + 0, y + 0, 0, $FFFFB73D & $ffffff);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

@@ -16,8 +16,9 @@ alarm_set(0, 5 * 60);
 /// @DnDVersion : 1.1
 /// @DnDHash : 5C2D3E62
 /// @DnDArgument : "soundid" "PowerupSFX"
+/// @DnDArgument : "gain" "0.5"
 /// @DnDSaveInfo : "soundid" "PowerupSFX"
-audio_play_sound(PowerupSFX, 0, 0, 1.0, undefined, 1.0);
+audio_play_sound(PowerupSFX, 0, 0, 0.5, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Instances.Color_Sprite
 /// @DnDVersion : 1

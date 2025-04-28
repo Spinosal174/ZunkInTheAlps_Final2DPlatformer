@@ -8,8 +8,9 @@ audio_stop_all();
 /// @DnDHash : 2FFC6974
 /// @DnDArgument : "soundid" "Snd_BckMusic_2"
 /// @DnDArgument : "loop" "1"
+/// @DnDArgument : "gain" "2.0"
 /// @DnDSaveInfo : "soundid" "Snd_BckMusic_2"
-audio_play_sound(Snd_BckMusic_2, 0, 1, 1.0, undefined, 1.0);
+audio_play_sound(Snd_BckMusic_2, 0, 1, 2.0, undefined, 1.0);
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
