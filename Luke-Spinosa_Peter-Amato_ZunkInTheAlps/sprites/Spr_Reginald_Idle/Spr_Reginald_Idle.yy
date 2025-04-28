@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
   "%Name":"Spr_Reginald_Idle",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":30,
   "bbox_left":2,
   "bbox_right":14,
-  "bbox_top":1,
+  "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
