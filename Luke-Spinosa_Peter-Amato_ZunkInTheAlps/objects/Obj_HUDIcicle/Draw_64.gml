@@ -25,10 +25,8 @@ draw_set_font(Font_Source);
 /// @DnDAction : YoYo Games.Drawing.Draw_Value
 /// @DnDVersion : 1
 /// @DnDHash : 38713EB4
-/// @DnDArgument : "x" "50"
-/// @DnDArgument : "x_relative" "1"
-/// @DnDArgument : "y" "15"
-/// @DnDArgument : "y_relative" "1"
+/// @DnDArgument : "x" "55"
+/// @DnDArgument : "y" "30"
 /// @DnDArgument : "caption" ""Icicles: ""
 /// @DnDArgument : "var" "Obj_Reginald.coins"
-draw_text(x + 50, y + 15, string("Icicles: ") + string(Obj_Reginald.coins));
+draw_text(55, 30, string("Icicles: ") + string(Obj_Reginald.coins));
