@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Endgame",
+  "%Name":"Obj_DangerSign",
   "eventList":[],
   "managed":true,
-  "name":"Obj_Endgame",
+  "name":"Obj_DangerSign",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Endgame",
-    "path":"sprites/Spr_Endgame/Spr_Endgame.yy",
+    "name":"Spr_DangerSign",
+    "path":"sprites/Spr_DangerSign/Spr_DangerSign.yy",
   },
   "spriteMaskId":null,
   "visible":true,

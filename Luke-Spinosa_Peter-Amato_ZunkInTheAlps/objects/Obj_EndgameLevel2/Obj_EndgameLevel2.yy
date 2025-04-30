@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_HUDIcicle",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":64,"eventType":8,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_EndgameLevel2",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_HUDIcicle",
+  "name":"Obj_EndgameLevel2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_Icicle",
-    "path":"sprites/Spr_Icicle/Spr_Icicle.yy",
+    "name":"Spr_Endgame",
+    "path":"sprites/Spr_Endgame/Spr_Endgame.yy",
   },
   "spriteMaskId":null,
   "visible":true,
